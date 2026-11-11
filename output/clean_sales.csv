@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,revenue
+1001,C001,2026-01-10,Laptop,Electronics,1,65000,65000
+1002,C002,2026-10-01,Mouse,Accessories,2,750,1500
+1003,C003,2026-02-10,Keyboard,Accessories,1,1500,1500
+1007,C007,2026-05-10,Headphones,Electronics,2,2000,4000

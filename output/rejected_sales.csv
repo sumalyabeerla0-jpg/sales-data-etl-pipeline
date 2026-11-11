@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,rejection_reason
+1003,C003,2026-02-10,Keyboard,Accessories,1,1500,duplicate_order_id
+1004,,2026-03-10,Monitor,Electronics,1,12000,missing_customer_id
+1005,C005,,Desk,Furniture,1,8000,invalid_order_date
+1006,C006,2026-04-10,Chair,Furniture,-1,3500,invalid_quantity
